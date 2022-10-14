@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "57e6a97fba256c2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "33a825d0704c1db1",
+        "type": "leaf",
+        "dimension": 70.95588235294117,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CSC 371 Dynamic Programing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a982de95a57fabd6",
+        "type": "split",
+        "dimension": 29.044117647058826,
+        "children": [
+          {
+            "id": "db03e4726b46dc5e",
+            "type": "leaf",
+            "dimension": 59,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CSC 371 Dynamic Programing.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "All Courses",
+                      "color": {
+                        "a": 1,
+                        "rgb": 12737750
+                      }
+                    },
+                    {
+                      "query": "file:ENGR",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2051071
+                      }
+                    },
+                    {
+                      "query": "file:CSC",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "file:MATH",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "file:MATH340",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16739338
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 2.49729773116438,
+                  "lineSizeMultiplier": 0.1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.131956335616438,
+                  "repelStrength": 12.8360445205479,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.22176485210522237,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "24ed1877137c51c4",
+            "type": "leaf",
+            "dimension": 41,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CSC 371 Dynamic Programing.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "All Courses",
+                      "color": {
+                        "a": 1,
+                        "rgb": 12737750
+                      }
+                    },
+                    {
+                      "query": "file:ENGR",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2051071
+                      }
+                    },
+                    {
+                      "query": "file:CSC",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "file:MATH",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.3,
+                  "nodeSizeMultiplier": 0.868247003424658,
+                  "lineSizeMultiplier": 3.98738227739726,
+                  "collapse-forces": false,
+                  "centerStrength": 0.596479023972603,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.9003848538226115,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df2f1505bf67bf1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "abe293c07acfb08f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a60482a16ca16437",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6380297a7cf92838",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a4bd0b2feaed65d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7dfde6d6bc659911",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e2e7d0907dbf228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddd5c240d54035de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSC 371 Dynamic Programing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8753499331234364",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSC 371 Dynamic Programing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e321bf57c351db12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3131bce752c7ac5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSC 371 Dynamic Programing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "33a825d0704c1db1",
+  "lastOpenFiles": [
+    "CSC 371 - Algorithmns & Computer Theory.md",
+    "CSC 371 Dynamic Programing.md",
+    "CSC.md",
+    "MATH 350-Linear Algebra.md",
+    "MATH.md",
+    "random.md",
+    "Courses.md",
+    "ENGR 375 Tues 9-6 Intro.md",
+    "ENGR 375 - Engineering Design.md",
+    "ENGR.md"
+  ]
+}
